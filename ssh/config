@@ -1,0 +1,15 @@
+Host github.com
+   HostName github.com
+   User git
+   ProxyCommand connect -S 127.0.0.1:1080 %h %p
+   IdentityFile ~/.ssh/id_github
+
+Host gitlab.cae.com
+   HostName gitlab.cae.com
+   User git
+   IdentityFile ~/.ssh/custom
+
+Host git.cae.com
+   HostName git.cae.com
+   User git
+   IdentityFile ~/.ssh/custom

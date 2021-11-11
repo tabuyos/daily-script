@@ -1,0 +1,22 @@
+[user]
+	email = tabuyos@outlook.com
+	name = tabuyos
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
+[https "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = true
+	longpaths = true
+[http]
+	sslVerify = false
+[includeIf "gitdir:~/.config/"]
+	path = ~/.github
+[includeIf "gitdir:~/gitrepository/github/"]
+	path = ~/.github
+[includeIf "gitdir:~/gitrepository/gitlab/"]
+	path = ~/.gitlab
+[pull]
+	rebase = true
