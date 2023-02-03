@@ -210,6 +210,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -249,6 +250,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -283,6 +285,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -317,6 +320,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -409,6 +413,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -444,6 +449,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -479,6 +485,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -514,6 +521,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -549,6 +557,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -583,6 +592,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -620,6 +630,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -657,6 +668,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -696,6 +708,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -733,6 +746,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -770,6 +784,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -806,6 +821,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.gnu\\.Emacs$",
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$",
                 "^org\\.gnu\\.AquamacsEmacs$",
@@ -843,6 +859,7 @@
             {
               "type": "frontmost_application_if",
               "bundle_identifiers": [
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$"
               ]
@@ -874,6 +891,7 @@
             {
               "type": "frontmost_application_if",
               "bundle_identifiers": [
+                "^com\\.google\\.android\\.studio$",
                 "^com\\.jetbrains\\.intellij$",
                 "^com\\.jetbrains\\..+$"
               ]
